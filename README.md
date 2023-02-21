@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dr1810
-- 👀 I’m interested in Theoretical Computing
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, Computer Vision
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
